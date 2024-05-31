@@ -1,5 +1,8 @@
 # **Mini Projects**
 
+# URL Shortener
+![URL Shortener Image](./Projects/URL-Shortener.png)
+
 # Drum Machine
 ![Drum Machine Image](./Projects/Drum-Machine.png)
 
