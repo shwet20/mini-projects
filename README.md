@@ -12,13 +12,25 @@
 # Technical Documentation
 ![Technical Documentation Image](./Projects/Technical-Documentation.png) -->
 
-<div style="display: flex; flex-wrap: wrap;">
-    <div style="flex: 1; margin-right: 5%;">
+<div style="display: flex; flex-wrap: wrap; gap: 20px;">
+    <div style="flex: 1; min-width: 300px;">
         <h2><a href="https://github.com/shwet20/mini-projects.git">Drum Machine</a></h2>
-        <img src="./Projects/Drum-Machine.png" alt="Drum Machine Image" style="width: 100%; height: 100%">
+        <img src="./Projects/Drum-Machine.png" alt="Drum Machine Image" style="width: 100%; height: auto;">
     </div>
-    <div style="flex: 1;">
-        <h2>Car Animation</h2>
-        <img src="./Projects/Car-Animation.png" alt="Car Animation Image" style="width: 100%; height: 100%">
+    <div style="flex: 1; min-width: 300px;">
+        <h2><a href="https://github.com/shwet20/mini-projects.git">Car Animation</a></h2>
+        <img src="./Projects/Car-Animation.png" alt="Car Animation Image" style="width: 100%; height: auto;">
     </div>
 </div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 20px;">
+    <div style="flex: 1; min-width: 300px;">
+        <h2><a href="https://github.com/shwet20/mini-projects.git">Portfolio 1</a></h2>
+        <img src="./Projects/Portfolio-1.png" alt="Portfolio Template Image" style="width: 100%; height: auto;">
+    </div>
+    <div style="flex: 1; min-width: 300px;">
+        <h2><a href="https://github.com/shwet20/mini-projects.git">Technical Documentation</a></h2>
+        <img src="./Projects/Technical-Documentation.png" alt="Technical Documentation Image" style="width: 100%; height: auto;">
+    </div>
+</div>
+
