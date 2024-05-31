@@ -9,6 +9,9 @@
 # Portfolio 1
 ![Portfolio Template Image](./Projects/Portfolio-1.png)
 
+# Portfolio 2
+![Portfolio Template Image](./Projects/Portfolio-2.png)
+
 # Technical Documentation
 ![Technical Documentation Image](./Projects/Technical-Documentation.png)
 
