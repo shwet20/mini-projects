@@ -1,4 +1,9 @@
 # Mini Projects
 
-Tools and Technologies:
-•React.js  •JavaScript  •CSS  •HTML5  •Tailwind CSS
+# Tools and Technologies:
+•React.js 
+•JavaScript 
+•Tailwind CSS
+•Bootstrap
+•CSS 
+•HTML5 
