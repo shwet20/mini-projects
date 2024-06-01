@@ -1,5 +1,3 @@
-# **Mini Project Ideas**
-
 # URL Shortener
 ![URL Shortener Image](./Projects/URL-Shortener.png)
 
