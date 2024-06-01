@@ -16,6 +16,9 @@
 # Sudoku Game
 ![Sudoku Game Image](./Projects/Sudoku.png)
 
+# Tic-Tac-Toe Game
+![Tic-Tac-Toe Game Image](./Projects/Tic-Tac-Toe.png)
+
 # Technical Documentation
 ![Technical Documentation Image](./Projects/Technical-Documentation.png)
 
