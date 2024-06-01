@@ -15,6 +15,9 @@
 # Portfolio 2
 ![Portfolio Template Image](./Projects/Portfolio-2.png)
 
+# Sudoku Game
+![Sudoku Game Image](./Projects/Sudoku.png)
+
 # Technical Documentation
 ![Technical Documentation Image](./Projects/Technical-Documentation.png)
 
